@@ -14,8 +14,8 @@ function preload() {
   dog = loadImage("Dog.png");
   happyDog = loadImage("happydog.png");
   lazyDog = loadImage("Lazy.png");
-  bedroom = loadImage("Bed Room.png");
-  washroom = loadImage("Wash Room.png");
+  bedroom = loadImage("BedRoom.png");
+  washroom = loadImage("WashRoom.png");
   garden = loadImage("Garden.png");
 }
 
